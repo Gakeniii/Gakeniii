@@ -1,6 +1,6 @@
-![Masterhead](image/Sifa%20Gakeni.png)
-# 💫 About Me:
-🚀 Welcome to My GitHub!<br>Hi, I'm Sifa Gakeni ! 👋 A passionate Software Engineer, Python Enthusiast, React Wizard, who loves building innovative solutions and crafting clean, efficient code.<br><br>🔹 What I Do:<br><br>🖥️ Build intuitive web and mobile applications<br>⚙️ Solve complex problems with Python, JavaScript, React, Flask, and more<br>🔥 Explore new technologies & share insights<br>📌 Check out my projects, contribute, or just say hi! Let's build something awesome together!<br><br>✨FUN FACT:<br>The first computer bug was literally a bug! 🐛<br><br>In 1947, computer pioneer Grace Hopper found a real moth stuck in the relays of a Harvard Mark II computer. She taped it into the logbook and labeled it "First actual case of bug being found." That's how the term "debugging" became popular in programming! 😆<br>
+![Masterhead](image/Sifa%20Gakeni%20(2).png)
+# 👋🏽 Hey there !
+🚀 Welcome to My GitHub!<br>I'm Sifa Gakeni, a passionate Software Engineer, Python Enthusiast, React Wizard, who loves building innovative solutions and crafting clean, efficient code.<br><br>🔹 What I Do:<br><br>🖥️ Build intuitive web and mobile applications<br>⚙️ Solve complex problems with Python, JavaScript, React, Flask, and more<br>🔥 Explore new technologies & share insights<br>📌 Check out my projects, contribute, or just say hi! Let's build something awesome together!<br><br>✨FUN FACT:<br>   The first computer bug was literally a bug! 🐛<br><br>In 1947, computer pioneer Grace Hopper found a real moth stuck in the relays of a Harvard Mark II computer. She taped it into the logbook and labeled it "First actual case of bug being found." That's how the term "debugging" became popular in programming! 😆<br>
 
 
 ## 🌐 Socials:
